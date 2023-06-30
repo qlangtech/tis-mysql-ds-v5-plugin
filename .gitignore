@@ -1,0 +1,19 @@
+#maven
+target
+
+#idea
+*.iml
+.idea
+
+#eclipse
+.project
+.classpath
+.settings
+.checkstyle
+
+# OSX
+.DS_Store
+
+.java-version
+*.versionsBackup
+

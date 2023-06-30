@@ -1,0 +1,92 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------< com.qlangtech.tis.plugins:tis-mysql-ds-v5-plugin >----------
+[INFO] Building tis-mysql-ds-v5-plugin 3.8.0
+[INFO] --------------------------------[ tpi ]---------------------------------
+[WARNING] The POM for org.jenkins-ci:task-reactor:jar:1.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[WARNING] The POM for org.codehaus.mojo:animal-sniffer-annotations:jar:1.18 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[INFO] 
+[INFO] --- maven-dependency-plugin:3.1.2:tree (default-cli) @ tis-mysql-ds-v5-plugin ---
+Downloading from rdc-releases: http://mvn-repo.oss-cn-hangzhou.aliyuncs.com/release/org/apache/maven/doxia/doxia-site-renderer/1.9/doxia-site-renderer-1.9.pom
+Downloading from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-site-renderer/1.9/doxia-site-renderer-1.9.pom
+Progress (1): 4.1 kBProgress (1): 6.7 kB                    Downloaded from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-site-renderer/1.9/doxia-site-renderer-1.9.pom (6.7 kB at 16 kB/s)
+Downloading from rdc-releases: http://mvn-repo.oss-cn-hangzhou.aliyuncs.com/release/org/apache/maven/doxia/doxia-sitetools/1.9/doxia-sitetools-1.9.pom
+Downloading from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-sitetools/1.9/doxia-sitetools-1.9.pom
+Progress (1): 4.1 kBProgress (1): 8.2 kBProgress (1): 12 kB Progress (1): 16 kB                   Downloaded from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-sitetools/1.9/doxia-sitetools-1.9.pom (16 kB at 43 kB/s)
+Downloading from rdc-releases: http://mvn-repo.oss-cn-hangzhou.aliyuncs.com/release/org/apache/maven/doxia/doxia-decoration-model/1.9/doxia-decoration-model-1.9.pom
+Downloading from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-decoration-model/1.9/doxia-decoration-model-1.9.pom
+Progress (1): 3.4 kB                    Downloaded from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-decoration-model/1.9/doxia-decoration-model-1.9.pom (3.4 kB at 5.9 kB/s)
+Downloading from rdc-releases: http://mvn-repo.oss-cn-hangzhou.aliyuncs.com/release/org/apache/maven/doxia/doxia-skin-model/1.9/doxia-skin-model-1.9.pom
+Downloading from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-skin-model/1.9/doxia-skin-model-1.9.pom
+Progress (1): 3.0 kB                    Downloaded from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-skin-model/1.9/doxia-skin-model-1.9.pom (3.0 kB at 8.2 kB/s)
+Downloading from rdc-releases: http://mvn-repo.oss-cn-hangzhou.aliyuncs.com/release/org/apache/maven/shared/maven-dependency-analyzer/1.11.1/maven-dependency-analyzer-1.11.1.pom
+Downloading from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/shared/maven-dependency-analyzer/1.11.1/maven-dependency-analyzer-1.11.1.pom
+Progress (1): 4.1 kBProgress (1): 6.7 kB                    Downloaded from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/shared/maven-dependency-analyzer/1.11.1/maven-dependency-analyzer-1.11.1.pom (6.7 kB at 71 kB/s)
+Downloading from rdc-releases: http://mvn-repo.oss-cn-hangzhou.aliyuncs.com/release/org/apache/maven/doxia/doxia-decoration-model/1.7.4/doxia-decoration-model-1.7.4.jar
+Downloading from rdc-releases: http://mvn-repo.oss-cn-hangzhou.aliyuncs.com/release/org/apache/maven/shared/maven-dependency-analyzer/1.11.1/maven-dependency-analyzer-1.11.1.jar
+Downloading from rdc-releases: http://mvn-repo.oss-cn-hangzhou.aliyuncs.com/release/org/apache/maven/doxia/doxia-skin-model/1.9/doxia-skin-model-1.9.jar
+Downloading from rdc-releases: http://mvn-repo.oss-cn-hangzhou.aliyuncs.com/release/org/apache/maven/doxia/doxia-site-renderer/1.9/doxia-site-renderer-1.9.jar
+Downloading from rdc-releases: http://mvn-repo.oss-cn-hangzhou.aliyuncs.com/release/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+Downloading from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-decoration-model/1.7.4/doxia-decoration-model-1.7.4.jar
+Downloading from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/shared/maven-dependency-analyzer/1.11.1/maven-dependency-analyzer-1.11.1.jar
+Downloading from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-skin-model/1.9/doxia-skin-model-1.9.jar
+Downloading from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-site-renderer/1.9/doxia-site-renderer-1.9.jar
+Downloading from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+Progress (1): 4.1/61 kBProgress (1): 8.2/61 kBProgress (1): 12/61 kB Progress (1): 16/61 kBProgress (1): 20/61 kBProgress (1): 24/61 kBProgress (1): 27/61 kBProgress (1): 30/61 kBProgress (1): 33/61 kBProgress (1): 37/61 kBProgress (1): 41/61 kBProgress (2): 41/61 kB | 4.1/66 kBProgress (2): 41/61 kB | 8.2/66 kBProgress (2): 41/61 kB | 12/66 kB Progress (2): 41/61 kB | 16/66 kBProgress (2): 41/61 kB | 20/66 kBProgress (2): 41/61 kB | 25/66 kBProgress (2): 41/61 kB | 29/66 kBProgress (2): 44/61 kB | 29/66 kBProgress (2): 44/61 kB | 31/66 kBProgress (2): 48/61 kB | 31/66 kBProgress (2): 52/61 kB | 31/66 kBProgress (2): 56/61 kB | 31/66 kBProgress (3): 56/61 kB | 31/66 kB | 4.1/480 kBProgress (3): 60/61 kB | 31/66 kB | 4.1/480 kBProgress (3): 60/61 kB | 31/66 kB | 8.2/480 kBProgress (3): 61 kB | 31/66 kB | 8.2/480 kB   Progress (3): 61 kB | 31/66 kB | 12/480 kB Progress (3): 61 kB | 31/66 kB | 16/480 kBProgress (3): 61 kB | 34/66 kB | 16/480 kBProgress (3): 61 kB | 34/66 kB | 20/480 kBProgress (3): 61 kB | 34/66 kB | 25/480 kBProgress (3): 61 kB | 37/66 kB | 25/480 kBProgress (3): 61 kB | 37/66 kB | 29/480 kBProgress (3): 61 kB | 37/66 kB | 32/480 kBProgress (3): 61 kB | 39/66 kB | 32/480 kBProgress (3): 61 kB | 39/66 kB | 36/480 kBProgress (3): 61 kB | 43/66 kB | 36/480 kBProgress (3): 61 kB | 43/66 kB | 40/480 kBProgress (3): 61 kB | 48/66 kB | 40/480 kBProgress (3): 61 kB | 48/66 kB | 44/480 kBProgress (3): 61 kB | 52/66 kB | 44/480 kBProgress (3): 61 kB | 52/66 kB | 48/480 kBProgress (3): 61 kB | 56/66 kB | 48/480 kBProgress (3): 61 kB | 56/66 kB | 52/480 kBProgress (3): 61 kB | 56/66 kB | 56/480 kBProgress (3): 61 kB | 60/66 kB | 56/480 kBProgress (3): 61 kB | 60/66 kB | 61/480 kBProgress (3): 61 kB | 64/66 kB | 61/480 kBProgress (3): 61 kB | 64/66 kB | 65/480 kBProgress (3): 61 kB | 66 kB | 65/480 kB   Progress (3): 61 kB | 66 kB | 69/480 kBProgress (3): 61 kB | 66 kB | 73/480 kBProgress (3): 61 kB | 66 kB | 77/480 kBProgress (3): 61 kB | 66 kB | 81/480 kBProgress (3): 61 kB | 66 kB | 85/480 kBProgress (3): 61 kB | 66 kB | 89/480 kBProgress (3): 61 kB | 66 kB | 93/480 kBProgress (3): 61 kB | 66 kB | 97/480 kBProgress (3): 61 kB | 66 kB | 101/480 kBProgress (3): 61 kB | 66 kB | 106/480 kBProgress (3): 61 kB | 66 kB | 110/480 kBProgress (3): 61 kB | 66 kB | 114/480 kBProgress (3): 61 kB | 66 kB | 118/480 kBProgress (3): 61 kB | 66 kB | 122/480 kBProgress (3): 61 kB | 66 kB | 126/480 kBProgress (3): 61 kB | 66 kB | 130/480 kBProgress (3): 61 kB | 66 kB | 134/480 kBProgress (3): 61 kB | 66 kB | 138/480 kBProgress (3): 61 kB | 66 kB | 142/480 kBProgress (3): 61 kB | 66 kB | 146/480 kBProgress (3): 61 kB | 66 kB | 151/480 kBProgress (3): 61 kB | 66 kB | 155/480 kBProgress (3): 61 kB | 66 kB | 159/480 kBProgress (3): 61 kB | 66 kB | 163/480 kBProgress (3): 61 kB | 66 kB | 167/480 kBProgress (3): 61 kB | 66 kB | 171/480 kBProgress (3): 61 kB | 66 kB | 175/480 kBProgress (3): 61 kB | 66 kB | 179/480 kBProgress (3): 61 kB | 66 kB | 183/480 kBProgress (3): 61 kB | 66 kB | 187/480 kBProgress (3): 61 kB | 66 kB | 191/480 kBProgress (3): 61 kB | 66 kB | 195/480 kBProgress (3): 61 kB | 66 kB | 199/480 kBProgress (3): 61 kB | 66 kB | 203/480 kBProgress (3): 61 kB | 66 kB | 207/480 kBProgress (3): 61 kB | 66 kB | 211/480 kBProgress (3): 61 kB | 66 kB | 215/480 kBProgress (3): 61 kB | 66 kB | 219/480 kBProgress (3): 61 kB | 66 kB | 224/480 kBProgress (3): 61 kB | 66 kB | 228/480 kBProgress (3): 61 kB | 66 kB | 232/480 kBProgress (3): 61 kB | 66 kB | 236/480 kBProgress (3): 61 kB | 66 kB | 239/480 kBProgress (3): 61 kB | 66 kB | 243/480 kBProgress (3): 61 kB | 66 kB | 247/480 kBProgress (3): 61 kB | 66 kB | 251/480 kBProgress (3): 61 kB | 66 kB | 256/480 kBProgress (3): 61 kB | 66 kB | 260/480 kBProgress (3): 61 kB | 66 kB | 264/480 kBProgress (3): 61 kB | 66 kB | 268/480 kBProgress (3): 61 kB | 66 kB | 272/480 kBProgress (3): 61 kB | 66 kB | 276/480 kBProgress (3): 61 kB | 66 kB | 280/480 kBProgress (3): 61 kB | 66 kB | 284/480 kBProgress (3): 61 kB | 66 kB | 288/480 kBProgress (3): 61 kB | 66 kB | 292/480 kBProgress (3): 61 kB | 66 kB | 297/480 kBProgress (3): 61 kB | 66 kB | 301/480 kBProgress (3): 61 kB | 66 kB | 305/480 kBProgress (3): 61 kB | 66 kB | 309/480 kBProgress (3): 61 kB | 66 kB | 313/480 kBProgress (3): 61 kB | 66 kB | 317/480 kBProgress (3): 61 kB | 66 kB | 321/480 kBProgress (3): 61 kB | 66 kB | 325/480 kBProgress (3): 61 kB | 66 kB | 329/480 kBProgress (3): 61 kB | 66 kB | 333/480 kBProgress (3): 61 kB | 66 kB | 338/480 kBProgress (3): 61 kB | 66 kB | 341/480 kBProgress (3): 61 kB | 66 kB | 345/480 kBProgress (3): 61 kB | 66 kB | 349/480 kBProgress (3): 61 kB | 66 kB | 353/480 kBProgress (3): 61 kB | 66 kB | 357/480 kBProgress (3): 61 kB | 66 kB | 360/480 kBProgress (3): 61 kB | 66 kB | 364/480 kBProgress (3): 61 kB | 66 kB | 368/480 kBProgress (3): 61 kB | 66 kB | 372/480 kBProgress (3): 61 kB | 66 kB | 376/480 kBProgress (3): 61 kB | 66 kB | 380/480 kBProgress (3): 61 kB | 66 kB | 384/480 kBProgress (3): 61 kB | 66 kB | 388/480 kBProgress (3): 61 kB | 66 kB | 392/480 kBProgress (3): 61 kB | 66 kB | 396/480 kBProgress (3): 61 kB | 66 kB | 399/480 kBProgress (3): 61 kB | 66 kB | 403/480 kBProgress (3): 61 kB | 66 kB | 407/480 kBProgress (3): 61 kB | 66 kB | 412/480 kBProgress (3): 61 kB | 66 kB | 416/480 kBProgress (3): 61 kB | 66 kB | 420/480 kBProgress (3): 61 kB | 66 kB | 424/480 kBProgress (3): 61 kB | 66 kB | 428/480 kBProgress (3): 61 kB | 66 kB | 432/480 kBProgress (3): 61 kB | 66 kB | 436/480 kBProgress (3): 61 kB | 66 kB | 440/480 kBProgress (3): 61 kB | 66 kB | 444/480 kBProgress (3): 61 kB | 66 kB | 448/480 kBProgress (3): 61 kB | 66 kB | 452/480 kBProgress (3): 61 kB | 66 kB | 457/480 kBProgress (3): 61 kB | 66 kB | 461/480 kBProgress (3): 61 kB | 66 kB | 465/480 kB                                        Downloaded from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-site-renderer/1.9/doxia-site-renderer-1.9.jar (66 kB at 570 kB/s)
+Progress (2): 61 kB | 469/480 kBProgress (2): 61 kB | 473/480 kBProgress (2): 61 kB | 477/480 kBProgress (2): 61 kB | 480 kB                                Downloaded from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar (480 kB at 3.2 MB/s)
+Progress (2): 61 kB | 4.1/17 kBProgress (2): 61 kB | 8.2/17 kBProgress (2): 61 kB | 12/17 kB Progress (2): 61 kB | 16/17 kBProgress (2): 61 kB | 17 kB   Progress (3): 61 kB | 17 kB | 2.8/35 kBProgress (3): 61 kB | 17 kB | 6.9/35 kBProgress (3): 61 kB | 17 kB | 9.9/35 kBProgress (3): 61 kB | 17 kB | 14/35 kB Progress (3): 61 kB | 17 kB | 16/35 kBProgress (3): 61 kB | 17 kB | 20/35 kBProgress (3): 61 kB | 17 kB | 25/35 kBProgress (3): 61 kB | 17 kB | 29/35 kBProgress (3): 61 kB | 17 kB | 33/35 kBProgress (3): 61 kB | 17 kB | 35 kB                                      Downloaded from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-decoration-model/1.7.4/doxia-decoration-model-1.7.4.jar (61 kB at 222 kB/s)
+Downloaded from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/doxia/doxia-skin-model/1.9/doxia-skin-model-1.9.jar (17 kB at 47 kB/s)
+Downloaded from mirror: http://mirrors.cloud.tencent.com/nexus/repository/maven-public/org/apache/maven/shared/maven-dependency-analyzer/1.11.1/maven-dependency-analyzer-1.11.1.jar (35 kB at 79 kB/s)
+[INFO] com.qlangtech.tis.plugins:tis-mysql-ds-v5-plugin:tpi:3.8.0
+[INFO] +- org.slf4j:slf4j-api:jar:1.7.32:provided
+[INFO] +- ch.qos.logback:logback-classic:jar:1.2.0:provided
+[INFO] |  \- ch.qos.logback:logback-core:jar:1.2.0:provided
+[INFO] +- com.qlangtech.tis:tis-plugin:jar:3.8.0:provided
+[INFO] |  +- javax.inject:javax.inject:jar:1:provided
+[INFO] |  +- org.apache.velocity:velocity-engine-core:jar:2.3:provided
+[INFO] |  |  \- org.apache.commons:commons-lang3:jar:3.7:provided
+[INFO] |  +- org.codehaus.groovy:groovy-all:jar:2.3.2:provided
+[INFO] |  +- commons-io:commons-io:jar:2.7:provided
+[INFO] |  +- org.jenkins-ci:task-reactor:jar:1.5:provided
+[INFO] |  +- org.yaml:snakeyaml:jar:1.23:provided
+[INFO] |  +- com.thoughtworks.xstream:xstream:jar:1.4.19:provided
+[INFO] |  |  \- io.github.x-stream:mxparser:jar:1.2.2:provided
+[INFO] |  |     \- xmlpull:xmlpull:jar:1.1.3.1:provided
+[INFO] |  +- commons-beanutils:commons-beanutils:jar:1.9.4:provided
+[INFO] |  |  +- commons-logging:commons-logging:jar:1.2:provided
+[INFO] |  |  \- commons-collections:commons-collections:jar:3.2.2:provided
+[INFO] |  +- com.qlangtech.tis:tis-manage-pojo:jar:3.8.0:provided
+[INFO] |  |  +- com.qlangtech.tis:datax-config:jar:3.8.0:provided
+[INFO] |  |  +- commons-lang:commons-lang:jar:2.6:provided
+[INFO] |  |  +- commons-codec:commons-codec:jar:1.13:provided
+[INFO] |  |  \- org.json:json:jar:20151123:provided
+[INFO] |  +- com.qlangtech.tis:tis-builder-api:jar:3.8.0:provided
+[INFO] |  |  \- com.qlangtech.tis:tis-web-start-api:jar:3.8.0:provided
+[INFO] |  +- org.jvnet:tiger-types:jar:2.2:provided
+[INFO] |  +- com.qlangtech.tis:tis-plugin-sezpoz:jar:3.8.0:provided
+[INFO] |  |  \- net.java.sezpoz:sezpoz:jar:1.13:provided
+[INFO] |  +- com.google.guava:guava:jar:20.0:provided
+[INFO] |  +- com.alibaba:fastjson:jar:1.2.76:provided
+[INFO] |  +- org.apache.ant:ant:jar:1.9.15:provided
+[INFO] |  |  \- org.apache.ant:ant-launcher:jar:1.9.15:provided
+[INFO] |  \- com.qlangtech.tis:xmodifier:jar:3.8.0:provided
+[INFO] |     \- org.jdom:jdom2:jar:2.0.5:provided
+[INFO] +- com.qlangtech.tis:tis-base-test:jar:3.8.0:test
+[INFO] |  \- com.qlangtech.tis:tis-common:jar:3.8.0:test
+[INFO] |     +- com.qlangtech.tis:tis-solrconfig-parser:jar:3.8.0:test
+[INFO] |     \- commons-dbcp:commons-dbcp:jar:1.4:test
+[INFO] |        \- commons-pool:commons-pool:jar:1.5.4:test
+[INFO] +- mysql:mysql-connector-java:jar:5.1.47:compile
+[INFO] +- org.slf4j:jcl-over-slf4j:jar:1.7.32:test
+[INFO] +- javax.servlet:javax.servlet-api:jar:3.1.0:provided
+[INFO] +- org.codehaus.mojo:animal-sniffer-annotations:jar:1.18:provided (optional) 
+[INFO] +- junit:junit:jar:4.13:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:1.3:test
+[INFO] \- org.easymock:easymock:jar:4.2:test
+[INFO]    \- org.objenesis:objenesis:jar:3.1:test
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.701 s
+[INFO] Finished at: 2023-06-30T15:34:59+08:00
+[INFO] ------------------------------------------------------------------------
