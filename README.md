@@ -27,6 +27,7 @@ First add profile as below in file with path `$MAVEN_HOME/conf/setting.xml`:
 </settings>
 ```
 
+   Then execute the maven command as below to genereate plugin project:
 
    ```shell
     mvn com.qlangtech.tis:tis-archetype-generate-plugin:$version:generate \
